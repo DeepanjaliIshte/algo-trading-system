@@ -1,11 +1,9 @@
 
-
 Note:
 
 Is pure project ka structure maine ChatGPT ki madad se properly explain karwaya hai taaki sabko clearly samajh aaye. 
 Meet me main shayad utna clearly explain nahi kar paaya tha, isliye yaha simplified format me dala hai. 
 Aap log ek baar structure dekh lena, flow easily samajh aa jayega.
-
 
 ----------------------------------------------------------------------
 
